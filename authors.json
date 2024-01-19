@@ -1,0 +1,84 @@
+[
+    {
+      "_id": "641c6247148b3317643f780a",
+      "average_rating": "4.06",
+      "author_id": 5411,
+      "text_reviews_count": "8642",
+      "name": "Cynthia Rylant",
+      "ratings_count": "96780"
+    },
+    {
+      "_id": "641c6247148b3317643f780b",
+      "average_rating": "3.84",
+      "author_id": 4092328,
+      "text_reviews_count": "97",
+      "name": "Margot Hovley",
+      "ratings_count": "318"
+    },
+    {
+      "_id": "641c6247148b3317643f780c",
+      "average_rating": "4.14",
+      "author_id": 75424,
+      "text_reviews_count": "7",
+      "name": "Wayne Kinsey",
+      "ratings_count": "71"
+    },
+    {
+      "_id": "641c6247148b3317643f780d",
+      "average_rating": "3.66",
+      "author_id": 1357577,
+      "text_reviews_count": "1889",
+      "name": "Francoise Sagan",
+      "ratings_count": "28688"
+    },
+    {
+      "_id": "641c6247148b3317643f780e",
+      "average_rating": "4.01",
+      "author_id": 3389,
+      "text_reviews_count": "367487",
+      "name": "Stephen King",
+      "ratings_count": "10666719"
+    },
+    {
+      "_id": "641c6247148b3317643f780f",
+      "average_rating": "4.10",
+      "author_id": 105602,
+      "text_reviews_count": "1916",
+      "name": "Edward Herrmann",
+      "ratings_count": "7201"
+    },
+    {
+      "_id": "641c6247148b3317643f7810",
+      "average_rating": "4.14",
+      "author_id": 31308,
+      "text_reviews_count": "127",
+      "name": "Peter Maass",
+      "ratings_count": "1194"
+    },
+    {
+      "_id": "641c6247148b3317643f7811",
+      "average_rating": "3.89",
+      "author_id": 50873,
+      "text_reviews_count": "30755",
+      "name": "L.J. Smith",
+      "ratings_count": "919399"
+    },
+    {
+      "_id": "641c6247148b3317643f7812",
+      "average_rating": "3.82",
+      "author_id": 232533,
+      "text_reviews_count": "58",
+      "name": "Anne Emmert",
+      "ratings_count": "436"
+    },
+    {
+      "_id": "641c6247148b3317643f7813",
+      "average_rating": "4.50",
+      "author_id": 166520,
+      "text_reviews_count": "1",
+      "name": "Christopher Michael McDonough",
+      "ratings_count": "2"
+    }
+
+]
+  
